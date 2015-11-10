@@ -17,7 +17,6 @@ from params import save_params, load_params, set_params, get_params
 
 from minimize import minimize
 
-
 #######################
 # SET SUPER PARAMETER #
 #######################
